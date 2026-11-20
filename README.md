@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Elakkiyan222/Elakkiyan222/main/anime-banner.svg" width="100%" alt="Anime-inspired Elakkiyan banner" />
-
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=C7A5FF&center=true&vCenter=true&width=760&lines=Aspiring+Software+Developer;Java+Learner;Problem+Solver;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated introduction" />
 
 </div>
