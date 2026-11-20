@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101b43"/><stop offset=".55" stop-color="#454078"/><stop offset="1" stop-color="#f18a91"/></linearGradient>
+ <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe4ad"/><stop offset="1" stop-color="#ff9b82"/></linearGradient>
+ <linearGradient id="desk" x1="0" x2="1"><stop stop-color="#131a32"/><stop offset="1" stop-color="#292447"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="400" fill="url(#sky)"/>
+<circle cx="930" cy="210" r="62" fill="#ffd5a3" opacity=".18" filter="url(#glow)"/><circle cx="930" cy="210" r="45" fill="url(#sun)"/>
+<path d="M0 280 L120 220 210 255 350 190 480 265 610 210 750 260 860 190 1000 255 1120 210 1200 260 V400 H0Z" fill="#252c59"/>
+<path d="M0 305 L110 260 225 300 340 240 470 295 600 260 720 300 840 255 980 290 1100 260 1200 305 V400 H0Z" fill="#151e3d"/>
+<g fill="#0e1530" opacity=".9"><rect x="810" y="240" width="30" height="120"/><rect x="850" y="220" width="50" height="140"/><rect x="910" y="260" width="30" height="100"/><rect x="955" y="230" width="65" height="130"/><rect x="1035" y="270" width="40" height="90"/><rect x="1090" y="220" width="60" height="140"/></g>
+<g fill="#ffdca1" opacity=".8"><rect x="860" y="245" width="8" height="10"/><rect x="880" y="245" width="8" height="10"/><rect x="970" y="250" width="8" height="10"/><rect x="990" y="250" width="8" height="10"/><rect x="1110" y="240" width="8" height="10"/></g>
+<!-- sakura branches -->
+<path d="M1180 15 Q1090 70 1030 130 T910 190 M1120 20 Q1100 110 1060 150" fill="none" stroke="#292344" stroke-width="14" stroke-linecap="round"/>
+<g fill="#ff9cc7"><circle cx="1115" cy="43" r="10"/><circle cx="1098" cy="60" r="11"/><circle cx="1075" cy="70" r="10"/><circle cx="1045" cy="92" r="12"/><circle cx="1018" cy="105" r="10"/><circle cx="985" cy="119" r="11"/><circle cx="954" cy="141" r="10"/><circle cx="1120" cy="115" r="12"/><circle cx="1090" cy="126" r="10"/><circle cx="1068" cy="143" r="12"/><circle cx="1035" cy="160" r="10"/><circle cx="1008" cy="170" r="12"/></g>
+<g fill="#ffd5e8"><circle cx="1115" cy="43" r="4"/><circle cx="1098" cy="60" r="4"/><circle cx="1075" cy="70" r="4"/><circle cx="1045" cy="92" r="4"/><circle cx="1018" cy="105" r="4"/><circle cx="985" cy="119" r="4"/><circle cx="954" cy="141" r="4"/></g>
+<!-- cozy room -->
+<rect x="0" y="0" width="470" height="400" fill="#13182b" opacity=".28"/>
+<rect x="36" y="45" width="130" height="170" rx="5" fill="#202643" stroke="#7f7bb0" stroke-width="3"/><path d="M101 45 V215 M36 130 H166" stroke="#7f7bb0" stroke-width="3"/>
+<rect x="48" y="55" width="45" height="65" fill="#f6b58f" opacity=".25"/><rect x="110" y="55" width="46" height="65" fill="#f6b58f" opacity=".25"/>
+<g fill="#ffda9f"><circle cx="70" cy="75" r="3"/><circle cx="125" cy="90" r="3"/><circle cx="80" cy="150" r="3"/></g>
+<rect x="15" y="255" width="380" height="18" rx="4" fill="#4b3450"/><rect x="15" y="273" width="380" height="12" fill="#2b223d"/>
+<!-- books and plant -->
+<rect x="40" y="205" width="110" height="18" fill="#a55c7b"/><rect x="55" y="188" width="100" height="17" fill="#475a91"/><rect x="72" y="172" width="88" height="16" fill="#d08d83"/>
+<path d="M180 255 Q150 210 180 175 Q210 210 180 255 M180 255 Q220 195 235 205 Q230 240 180 255 M180 255 Q145 225 130 230 Q145 255 180 255" fill="#4f9c82"/><rect x="165" y="255" width="30" height="35" rx="4" fill="#9b6c70"/>
+<!-- character -->
+<ellipse cx="470" cy="320" rx="230" ry="65" fill="#0a1024" opacity=".45"/>
+<path d="M270 290 Q285 215 365 205 L470 205 Q550 225 585 290 L610 355 H250Z" fill="#28314e"/>
+<path d="M325 205 Q300 160 330 110 Q360 45 440 60 Q515 80 510 160 L485 210Z" fill="#171a2b"/>
+<ellipse cx="415" cy="145" rx="78" ry="90" fill="#e9b28f"/>
+<path d="M335 145 Q325 75 385 45 Q465 25 500 95 L485 130 Q460 80 425 80 Q380 80 355 125Z" fill="#191b2e"/>
+<path d="M350 90 Q380 65 400 85 L390 120 Q370 105 350 130Z M420 60 Q465 55 480 100 L460 115 Q445 90 425 90Z" fill="#24243a"/>
+<ellipse cx="388" cy="145" rx="12" ry="7" fill="#27213b"/><ellipse cx="450" cy="145" rx="12" ry="7" fill="#27213b"/><circle cx="390" cy="145" r="3" fill="#b5d7ff"/><circle cx="450" cy="145" r="3" fill="#b5d7ff"/>
+<path d="M400 180 Q425 190 445 176" fill="none" stroke="#9b5d6b" stroke-width="3" stroke-linecap="round"/>
+<path d="M330 125 Q325 145 330 170" stroke="#6971a7" stroke-width="16" fill="none" stroke-linecap="round"/><path d="M505 125 Q520 150 500 178" stroke="#6971a7" stroke-width="16" fill="none" stroke-linecap="round"/>
+<path d="M290 255 Q320 210 375 210 L470 210 Q530 220 565 270 L550 340 H300Z" fill="#283c63"/>
+<path d="M370 220 L410 285 L455 220" fill="none" stroke="#b9c6ef" stroke-width="5" opacity=".7"/>
+<!-- laptop and desk -->
+<rect x="525" y="245" width="240" height="145" rx="12" fill="#111a32" stroke="#8896d2" stroke-width="4"/><rect x="545" y="265" width="200" height="110" rx="6" fill="#182344"/>
+<text x="645" y="330" font-family="monospace" font-size="44" fill="#a8c7ff" text-anchor="middle">&lt;/&gt;</text>
+<path d="M500 390 H790 L820 405 H475Z" fill="#303452" stroke="#8b91c8" stroke-width="2"/>
+<rect x="820" y="305" width="52" height="65" rx="7" fill="#32263c"/><path d="M830 300 Q845 275 850 300" fill="none" stroke="#ffb7cb" stroke-width="5"/>
+<!-- lamp -->
+<path d="M215 20 L255 95 L310 95" fill="none" stroke="#5a5475" stroke-width="9"/><path d="M230 95 H300 L280 135 H250Z" fill="#ffc879"/><ellipse cx="265" cy="135" rx="50" ry="20" fill="#ffd59a" opacity=".18"/>
+<!-- text panel -->
+<rect x="650" y="40" width="500" height="140" rx="25" fill="#0d1530" opacity=".35"/>
+<text x="685" y="120" font-family="cursive" font-size="76" fill="#ffffff" font-style="italic">Elakkiyan</text>
+<path d="M700 138 Q850 165 1020 138" fill="none" stroke="#ba92ff" stroke-width="5" stroke-linecap="round"/>
+<text x="780" y="182" font-family="Arial,sans-serif" font-size="28" fill="#e5e8ff" letter-spacing="3">SOFTWARE DEVELOPER</text>
+<g fill="#fff"><circle cx="210" cy="45" r="2"/><circle cx="580" cy="40" r="3"/><circle cx="610" cy="80" r="2"/><circle cx="745" cy="22" r="2"/><circle cx="900" cy="75" r="2"/><circle cx="1120" cy="180" r="2"/></g>
+</svg>
