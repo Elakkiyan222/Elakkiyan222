@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=ELAKKIYAN&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=62&descSize=18" width="100%" />
+<img src="https://raw.githubusercontent.com/Elakkiyan222/Elakkiyan222/main/anime-banner.svg" width="100%" alt="Anime-inspired Elakkiyan software developer banner" />
 
 <a href="https://github.com/Elakkiyan222">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Java+Developer;Problem+Solver+%26+Continuous+Learner;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Animated typing introduction" />
