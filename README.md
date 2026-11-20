@@ -8,10 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Java+%7C+Web+%7C+Database+Projects;Problem+Solver+%26+Continuous+Learner;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Animated typing introduction" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Elakkiyan222&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
