@@ -31,10 +31,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,vscode,github,netbeans&theme=dark" alt="Java, VS Code, GitHub and NetBeans icons" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/Java-Currently_Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
