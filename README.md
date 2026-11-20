@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Elakkiyan222/Elakkiyan222/main/anime-banner.svg" width="100%" alt="Cyberpunk anime developer banner for Elakkiyan" />
+<img src="https://raw.githubusercontent.com/Elakkiyan222/Elakkiyan222/main/anime-banner.svg" width="100%" alt="Anime-inspired Elakkiyan banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=ASPiRING+SOFTWARE+DEVELOPER;JAVA+DEVELOPER;PROBLEM+SOLVER;CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE" alt="Cyberpunk animated intro" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=C7A5FF&center=true&vCenter=true&width=760&lines=Aspiring+Software+Developer;Java+Learner;Problem+Solver;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated introduction" />
 
 </div>
 
@@ -12,40 +16,29 @@
 <tr>
 <td width="58%" valign="top">
 
-## <span style="color:#00F5FF">◈ ABOUT ME</span>
+## 🌸 About Me
 
-**Hey, I'm Elakkiyan** — an aspiring software developer who enjoys coding, learning new technologies, and building projects.
+**Hi, I'm Elakkiyan!**
 
-```text
-[ USER      ]  ELAKKIYAN
-[ ROLE      ]  ASPIRING SOFTWARE DEVELOPER
-[ STATUS    ]  LEARNING / BUILDING
-[ MISSION   ]  TURN IDEAS INTO CODE
-```
+I'm an aspiring software developer who enjoys learning programming, building projects, and solving problems through code.
 
 - 💻 Building real-world projects
-- 🧩 Practicing problem-solving through coding
-- 🚀 Exploring software development
-- 🎯 Constantly learning and improving
+- 🧩 Practicing coding challenges
+- 🌱 Learning and improving step by step
+- 🎯 Focused on growing as a software developer
 
 </td>
 <td width="42%" valign="top">
 
-## <span style="color:#FF3EA5">◈ CURRENT FOCUS</span>
+## 🎯 Focus Areas
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00F5FF?style=for-the-badge&logo=web&logoColor=black" />
-
+<p align="center">
+<img src="https://img.shields.io/badge/Web_Development-8B7BFF?style=for-the-badge&logo=web&logoColor=white" />
 <br/><br/>
-
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-9D4EDD?style=for-the-badge&logo=figma&logoColor=white" />
-
+<img src="https://img.shields.io/badge/UI%2FUX_Design-DB8BCB?style=for-the-badge&logo=figma&logoColor=white" />
 <br/><br/>
-
-<img src="https://img.shields.io/badge/PROBLEM_SOLVING-FF3EA5?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</div>
+<img src="https://img.shields.io/badge/Problem_Solving-91B8FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
 </td>
 </tr>
@@ -53,27 +46,27 @@
 
 ---
 
-## <span style="color:#00F5FF">◈ TECH & TOOLS</span>
+## ⚡ Tech & Tools
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" /><br/><br/>
-<img src="https://img.shields.io/badge/JAVA-FF9D00?style=for-the-badge&logo=openjdk&logoColor=black" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java logo" /><br/>
+<strong>Java</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" /><br/><br/>
-<img src="https://img.shields.io/badge/VS_CODE-00BFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code logo" /><br/>
+<strong>VS Code</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" alt="NetBeans" /><br/><br/>
-<img src="https://img.shields.io/badge/NETBEANS-9D4EDD?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" alt="NetBeans logo" /><br/>
+<strong>NetBeans</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" height="48" alt="GitHub" /><br/><br/>
-<img src="https://img.shields.io/badge/GITHUB-FF3EA5?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="48" alt="GitHub logo" /><br/>
+<strong>GitHub</strong>
 </td>
 </tr>
 </table>
@@ -82,46 +75,46 @@
 
 ---
 
-## <span style="color:#FF3EA5">◈ FEATURED PROJECTS</span>
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <span style="color:#00F5FF">01 / SAMPLE DBMS JAVA</span>
+### 🛡️ SAMPLE-DBMS-JAVA-PROJECT
 
-Java and database project.
+A Java and database project.
 
-<a href="https://github.com/Elakkiyan222/SAMPLE-DBMS-JAVA-PROJECT"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="https://github.com/Elakkiyan222/SAMPLE-DBMS-JAVA-PROJECT">View Repository ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### <span style="color:#FF3EA5">02 / LEETCODE</span>
+### 🧩 LEETCODE
 
-Coding challenges and problem-solving practice.
+Coding practice and problem-solving solutions.
 
-<a href="https://github.com/Elakkiyan222/LEETCODE"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-FF3EA5?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Elakkiyan222/LEETCODE">View Repository ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <span style="color:#9D4EDD">03 / HTML PORTFOLIO</span>
+### 🌐 HTML Portfolio
 
 Personal portfolio website project.
 
-<a href="https://github.com/Elakkiyan222/html-portfolio"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-9D4EDD?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Elakkiyan222/html-portfolio">View Repository ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### <span style="color:#00F5FF">04 / JAVA DBMS</span>
+### ☕ Java DBMS Project
 
 Java-based database project.
 
-<a href="https://github.com/Elakkiyan222/java-dbms-project"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="https://github.com/Elakkiyan222/java-dbms-project">View Repository ↗</a>
 
 </td>
 </tr>
@@ -129,41 +122,31 @@ Java-based database project.
 
 ---
 
-## <span style="color:#00F5FF">◈ GITHUB SYSTEM STATUS</span>
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elakkiyan222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF3EA5&text_color=FFFFFF&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Elakkiyan222&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF3EA5&currStreakLabel=00F5FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elakkiyan222&bg_color=0D1117&color=C7A5FF&line=F08CCB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
-## <span style="color:#FF3EA5">◈ CONTRIBUTION MATRIX</span>
+## 🔗 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elakkiyan222&bg_color=0D1117&color=00F5FF&line=FF3EA5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
+<a href="https://github.com/Elakkiyan222"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohan-raj-full-stack-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## <span style="color:#00F5FF">◈ CONNECT</span>
-
 <div align="center">
 
-<a href="https://github.com/Elakkiyan222"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
-<a href="https://www.linkedin.com/in/mohan-raj-full-stack-developer/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+### 🌙 LEARN • BUILD • REPEAT
 
-<br/><br/>
-
-### <span style="color:#FF3EA5">[ SYSTEM MESSAGE ]</span>
-
-`LEARN // BUILD // REPEAT`
-
-<em>“The future is built one line of code at a time.”</em>
+<em>“Small progress every day leads to big results.”</em>
 
 </div>
