@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=ELAKKIYAN&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=62&descSize=18" width="100%" />
 
 <a href="https://github.com/Elakkiyan222">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Java+%7C+Web+%7C+Database+Projects;Problem+Solver+%26+Continuous+Learner;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Java+Developer;Problem+Solver+%26+Continuous+Learner;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Animated typing introduction" />
 </a>
 
 </div>
@@ -17,7 +17,7 @@
 ```text
 > Developer      : Elakkiyan
 > GitHub        : @Elakkiyan222
-> Interests      : Software Development • Web • Databases
+> Interests      : Software Development • Programming
 > Mindset       : Learn → Build → Improve
 ```
 
@@ -31,7 +31,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&theme=dark" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=java,vscode,github,idea&theme=dark" alt="Java, VS Code, GitHub and IDE icons" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-Currently_Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
