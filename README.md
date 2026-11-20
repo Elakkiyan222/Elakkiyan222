@@ -37,7 +37,7 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" alt="Apache NetBeans logo" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="48" alt="GitHub logo" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="48" alt="GitHub logo" />
 
 <br/><br/>
 
