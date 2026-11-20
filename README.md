@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,vscode,github,idea&theme=dark" alt="Java, VS Code, GitHub and IDE icons" />
+<img src="https://skillicons.dev/icons?i=java,vscode,github,netbeans&theme=dark" alt="Java, VS Code, GitHub and NetBeans icons" />
 
 <br/><br/>
 
